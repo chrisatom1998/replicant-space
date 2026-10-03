@@ -1,0 +1,15 @@
+{
+  "name": "replicant-deep-space",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/simulation.test.js",
+    "test:browser": "node tests/browser.test.cjs",
+    "check": "node --check dist/main.js && node --check dist/sim.js && node --check dist/touch.js",
+    "test:mobile": "node tests/mobile.test.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

@@ -26,7 +26,7 @@ Enter your name and press Start. The controls appear over the starting Earth sce
 
 The fleet supports up to 50 living probes including the active ship. Autonomous probes follow in formation and fight nearby sentinels. Some planets have hostile defenders. Health bars appear above companion ships and in the HUD for the active probe. When the active probe is destroyed, control transfers to a surviving clone. Losing the entire fleet ends the run; Initialize again restarts it.
 
-The universe contains 1,200 reproducible procedurally varied planets, including rocky, icy, ocean, volcanic and ringed gas worlds. The first scene shows Earth alone nearby. Flight is continuous between worlds, with floating-origin rendering and nearby-world culling. Swept sphere collision detection and a surface safety shell protect both the leader and companions from entering planets. The universe is deliberately game-scaled rather than an astronomical simulation. HUD distances and speeds use consistent game-scale kilometers.
+The universe contains 3,000 reproducible procedurally varied planets, including rocky, icy, ocean, volcanic and ringed gas worlds. The first scene shows Earth alone nearby. Flight is continuous between worlds, with floating-origin rendering and nearby-world culling. Swept sphere collision detection and a surface safety shell protect both the leader and companions from entering planets. The universe is deliberately game-scaled rather than an astronomical simulation. HUD distances and speeds use consistent game-scale kilometers.
 
 ## Mobile mode
 
